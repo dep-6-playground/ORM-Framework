@@ -5,7 +5,7 @@ plugins {
 
 group = 'lk.ijse.dep.web'
 version = '1.0-.0'
-description =  'ORM Framework'
+description =  'Simple ORM Framework'
 sourceCompatibility = 8
 
 repositories {
